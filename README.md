@@ -1,5 +1,5 @@
-# ChitChat P2P Messeging App
-ChitChat is a Network Layer messenger application that runs on Android environment. It supports only p2p data exchanging, built using Native Android. So Android phone is needed to run this app.
+# CableChat P2P Messeging App
+P2P is a Network Layer messenger application that runs on Android environment. It supports only p2p data exchanging, built using Native Android. So Android phone is needed to run this app.
 
 # Youtube Link of how our app works:
 ChitCat P2P Messeging App <b>[ [watch now](https://www.youtube.com/watch?v=NH8UuVdsCWM) ] </b>

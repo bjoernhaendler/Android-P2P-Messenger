@@ -1,4 +1,4 @@
-package com.example.p2pmessenger;
+package eu.haendler.p2pmessenger;
 
 import android.content.Intent;
 import android.os.Bundle;

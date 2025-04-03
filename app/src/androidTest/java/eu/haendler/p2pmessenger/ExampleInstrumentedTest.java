@@ -1,4 +1,4 @@
-package com.example.p2pmessenger;
+package eu.haendler.p2pmessenger;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

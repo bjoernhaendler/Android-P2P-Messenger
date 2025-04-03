@@ -1,8 +1,8 @@
-# ChitChat P2P Messeging App
+# CableChat P2P Messeging App
 
 | About Our App |
 | --------------- |
-| <b> ChitChat </b> is a Network Layer messenger application that runs on Android environment. It supports only p2p data exchanging, built using Native Android. So Android phone is needed to run this app. Clients are connected through their IP address and port number with the devices under the same local network.|
+| <b> CableChat </b> is a Network Layer messenger application that runs on Android environment. It supports only p2p data exchanging, built using Native Android. So Android phone is needed to run this app. Clients are connected through their IP address and port number with the devices under the same local network.|
 
 
 
@@ -41,10 +41,10 @@
 | <b> <u> Saif did</u>:  </b>  Socket desiging, file sending, exchanging messages, Caesar Cipher encryption system, exchanged messages using voice, designing beautiful UI and magical GUI, alert dialogue confirmation and timing,removing chat history, app testing, debugging |
 
 ## How to run this app? 
-### [More detail of our app can be found [here](https://github.com/SaiferGit/p2p-messenger/chitChat.apk)]
+### [More detail of our app can be found [here](https://github.com/SaiferGit/p2p-messenger/CableChat.apk)]
 - Take two separate <b> Android </b> phones (API 19 or higher). Our App will run in the following Android versions:
 
-- Open the <b> APK </b> that named <b> ChitChat.apk </b>, you can find it on the following  location: [APK Link](https://github.com/SaiferGit/p2p-messenger/blob/master/chitchat.apk). You can also run the app just like other android app by cloning from GitHub.
+- Open the <b> APK </b> that named <b> CableChat.apk </b>, you can find it on the following  location: [APK Link](https://github.com/SaiferGit/p2p-messenger/blob/master/CableChat.apk). You can also run the app just like other android app by cloning from GitHub.
 <br/>
 - Once you run the app you can see the <b> Splash Screen </b>.
 <br/>
@@ -94,7 +94,7 @@
 ![picture15(voice_msg_sent)](https://user-images.githubusercontent.com/44334473/66694797-40c19e80-ecd9-11e9-9a60-fbd5430b2784.jpg)
 <br/>
 
-- File will be send and downloaded on the following location: <b> android/data/com.example.p2p/... </b>
+- File will be send and downloaded on the following location: <b> android/data/eu.haendler.p2p/... </b>
 <br/>
 ![pictuure18(chat history saved)](https://user-images.githubusercontent.com/44334473/66694872-61d6bf00-ecda-11e9-9051-15e471442dc2.jpg)
 <br/>
@@ -137,10 +137,10 @@
 ![picture28(cant dycrpt msg)](https://user-images.githubusercontent.com/44334473/66694858-3e137900-ecda-11e9-93e0-042cf377ef26.jpg)
 
 ## How to run this app? 
-### [More detail of our app can be found [here](https://github.com/SaiferGit/p2p-messenger/chitChat.apk)]
+### [More detail of our app can be found [here](https://github.com/SaiferGit/p2p-messenger/CableChat.apk)]
 - Take two separate <b> Android </b> phones (API 19 or higher). Our App will run in the following Android versions:
 
-- Open the <b> APK </b> that named <b> ChitChat.apk </b>, you can find it on the following  location: [APK Link](https://github.com/SaiferGit/p2p-messenger/blob/master/chitchat.apk). You can also run the app just like other android app by cloning from GitHub.
+- Open the <b> APK </b> that named <b> CableChat.apk </b>, you can find it on the following  location: [APK Link](https://github.com/SaiferGit/p2p-messenger/blob/master/CableChat.apk). You can also run the app just like other android app by cloning from GitHub.
 <br/>
 - Once you run the app you can see the <b> Splash Screen </b>.
 <br/>
@@ -190,7 +190,7 @@
 ![picture15(voice_msg_sent)](https://user-images.githubusercontent.com/44334473/66694797-40c19e80-ecd9-11e9-9a60-fbd5430b2784.jpg)
 <br/>
 
-- File will be send and downloaded on the following location: <b> android/data/com.example.p2p/... </b>
+- File will be send and downloaded on the following location: <b> android/data/eu.haendler.p2p/... </b>
 <br/>
 ![pictuure18(chat history saved)](https://user-images.githubusercontent.com/44334473/66694872-61d6bf00-ecda-11e9-9051-15e471442dc2.jpg)
 <br/>

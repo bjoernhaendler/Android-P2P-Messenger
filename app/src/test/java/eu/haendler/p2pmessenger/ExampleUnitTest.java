@@ -1,4 +1,4 @@
-package com.example.p2pmessenger;
+package eu.haendler.p2pmessenger;
 
 import org.junit.Test;
 

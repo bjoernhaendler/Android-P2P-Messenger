@@ -14,7 +14,7 @@
 		____________________________________________________________________________________
 		|>>>>>>>>>>>>>>>>>>>                About our App               <<<<<<<<<<<<<<<<<<<|
 		|__________________________________________________________________________________| 
-		|	ChitChat is a Network Layer messenger application that runs on Android     |
+		|	CableChat is a Network Layer messenger application that runs on Android     |
 		| environment. It supports only p2p data exchanging, built using Native Android.   |
 		| So Android phone is needed to run this app.                                      |
 		|__________________________________________________________________________________|
@@ -61,17 +61,17 @@
 	
 
 	        [ A demo example is given here(showing how to run and how the app works) as: 
-		  ChitChat.mp4. you can find it on the main directory of our zip, just where you find 
+		  CableChat.mp4. you can find it on the main directory of our zip, just where you find
 		  this readme.txt]
 		_____________________________________________________________________________________
 		|>>>>>>>>>>>>>>>>>>>>             How to run this app?         <<<<<<<<<<<<<<<<<<<<<|
 		|_______|___________________________________________________________________________|                  
 		|    1. |   Take two separate Android phones (API 19 or higher).                    |
 		|-------|---------------------------------------------------------------------------|
-		|    2. |   Open the APK that named ChitChat.apk in your taken androids(use data    |
+		|    2. |   Open the APK that named CableChat.apk in your taken androids(use data    |
 		|       | cable to take it in your phone and install it), you can find it on the    |
 		|       | following  location: 	(just where you find this readme.txt)		    |
-		|	|     https://github.com/SaiferGit/p2p-messenger/blob/master/chitchat.apk   |
+		|	|     https://github.com/SaiferGit/p2p-messenger/blob/master/CableChat.apk   |
 		|-------|---------------------------------------------------------------------------|
 		|    3. |   Once you run the app you can see the following fields:                  |
 		|-------|------|                                                              |-----|
@@ -105,7 +105,7 @@
 		        |      |either share any text file from your storage or you can share any   |
 		        |      |voice message you want. Your shared file will be automatically      | 
 			|      |downloaded in your peer's following location:			    |
-			|      |               android/data/com.example.p2pmessenger/files...       |
+			|      |               android/data/eu.haendler.p2pmessenger/files...       |
 			|------|--------------------------------------------------------------------|
 			|  iii.|    Through voice message we used English Language Model, so you can| 
 			|      |send voice message only in English.				    |
@@ -118,7 +118,7 @@
 		|-------|------|                                                             |------|
 			|    i.|    By clicking Save Chat, you can save your exchanged messages.    |
         		|      |The chat will be saved on: 					    |
-			|      |	android/data/com.example.p2pmessenger/files...		    |
+			|      |	android/data/eu.haendler.p2pmessenger/files...		    |
         		|------|--------------------------------------------------------------------|
 			|   ii.|    By clicking Change Background, you can change your chat         |
         		|      |background for both of you and your peer.                           |
@@ -162,7 +162,7 @@
 		|		  |encryption and On the other end when the user receives it with   |
 		|		  |decryption. A code is added before sending the file so that other|
 		|		  |end understood  that it is a file. Then from other end we create |
-		|		  |a text file in android/data/com.example.p2pmessenger/files and   |
+		|		  |a text file in android/data/eu.haendler.p2pmessenger/files and   |
 		|		  |saves it line by line just like a simple text file.              |
 		|-----------------|-----------------------------------------------------------------|
 		| voice button	  |	when voice button is clicked a popup wants some voice       |

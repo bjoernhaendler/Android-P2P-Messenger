@@ -1,4 +1,4 @@
-package com.example.p2pmessenger;
+package eu.haendler.p2pmessenger;
 
 import android.Manifest;
 import android.content.DialogInterface;
@@ -125,7 +125,7 @@ public class MainActivity extends AppCompatActivity {
 
         // adding the toolbar
         setSupportActionBar(mToolbar);
-        getSupportActionBar().setTitle("Chit Chat"); // giving the title
+        getSupportActionBar().setTitle("CableChat"); // giving the title
 
 
         receivePortEditText = findViewById(R.id.receiveEditText);
